@@ -13,6 +13,11 @@ public class Testclass extends base {
 		driver.get("https://www.amazon.in");
 		driver.findElementByXPath("//*[@id=\"twotabsearchtextbox\"]\r\n").sendKeys("i7 processor, 8/16 GB RAM and a screen<=14");
 		driver.findElementByXPath("//*[@id=\"nav-search\"]/form/div[2]/div/input").click();
+		
+		System.out.println("x");
+		System.out.println("y");
+		System.out.println("z");
+		
 
 	}
 

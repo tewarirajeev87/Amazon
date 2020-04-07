@@ -18,6 +18,10 @@ public class Testclass extends base {
 		System.out.println("y");
 		System.out.println("z");
 		
+		System.out.println("o");
+		System.out.println("p");
+		System.out.println("i");
+		
 
 	}
 

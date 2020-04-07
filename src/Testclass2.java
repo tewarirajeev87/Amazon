@@ -3,7 +3,7 @@ import java.net.MalformedURLException;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.AndroidElement;
 
-public class Testclass extends base {
+public class Testclass2 extends base {
 
 	public static void main(String[] args) throws MalformedURLException {
 		// TODO Auto-generated method stub
@@ -21,14 +21,6 @@ public class Testclass extends base {
 		System.out.println("o");
 		System.out.println("p");
 		System.out.println("i");
-		
-		System.out.println("l");
-		System.out.println("l");
-		System.out.println("zm");
-		
-		System.out.println("b");
-		System.out.println("h");
-		System.out.println("t");
 		
 
 	}
